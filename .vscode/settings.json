@@ -7,5 +7,8 @@
   "liveServer.settings.port": 5501,
   "files.autoSave": "afterDelay",
   "files.autoSaveDelay": 700,
-  "editor.minimap.enabled": false
+  "editor.minimap.enabled": false,
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  }
 }
